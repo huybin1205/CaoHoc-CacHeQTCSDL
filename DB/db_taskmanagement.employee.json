@@ -1,0 +1,2 @@
+{"_id":{"$oid":"638adb9ad18c573bca0f386c"},"FullName":"Trần Gia Huy","Department":"Nhân sự","Birthday":{"$date":{"$numberLong":"894931200000"}},"Phone":"0365247372","Position":"Nhân viên","EmployeeID":"TGH1"}
+{"_id":{"$oid":"738adb9ad18c573bca0f386c"},"FullName":"Trần Gia Đạt","Department":"Nhân sự","Birthday":{"$date":{"$numberLong":"894931200000"}},"Phone":"0365247372","Position":"Nhân viên","EmployeeID":"THĐ1"}

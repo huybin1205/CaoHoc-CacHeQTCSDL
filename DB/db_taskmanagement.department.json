@@ -1,0 +1,3 @@
+{"_id":{"$oid":"639db399615de732aec10e92"},"DepartmentName":"IT","EmployeeID":{"$oid":"738adb9ad18c573bca0f386c"},"Description":"Support IT"}
+{"_id":{"$oid":"639db399615de732aec10e93"},"DepartmentName":"Nhân sự"}
+{"_id":{"$oid":"639db399615de732aec10e94"},"DepartmentName":"Kế toán"}

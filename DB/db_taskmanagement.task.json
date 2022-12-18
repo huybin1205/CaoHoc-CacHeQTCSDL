@@ -1,0 +1,3 @@
+{"_id":{"$oid":"639db472615de732aec10e96"},"TaskName":"Phân khúc khách hàng","ProjectID":{"$oid":"639db3de615de732aec10e95"},"EmployeeIDs":[{"EmployeeID":{"$oid":"638adb9ad18c573bca0f386c"}},{"EmployeeID":{"$oid":"738adb9ad18c573bca0f386c"}}]}
+{"_id":{"$oid":"639db472615de732aec10e97"},"TaskName":"Phân tích thị trường","ProjectID":{"$oid":"639db3de615de732aec10e95"}}
+{"_id":{"$oid":"639db472615de732aec10e98"},"TaskName":"Lập kế hoạch kinh doanh","ProjectID":{"$oid":"639db3de615de732aec10e95"}}
