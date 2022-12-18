@@ -1,0 +1,26 @@
+﻿@using MDTasks.Models
+@model SearchingEmployee
+@{
+    ViewData["Title"] = "Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Employee Search</h3>
+<div class="row">
+    @using (Html.BeginForm("SearchRPEmployee", "Employee", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label asp-for="EmployeeName" class="col-form-label textbox-label"></label>
+            <input asp-for="EmployeeName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="DepartmentName" class="col-form-label textbox-label"></label>
+            <input asp-for="DepartmentName" class="form-control" />
+        </div>
+        <div>
+            <button id="btnSaveCompetitor" type="submit" class="btn btn-success">Seach</button>
+        </div>
+    }
+</div>
+
+

@@ -1,0 +1,467 @@
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfoInputs.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfo.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CoreCompileInputs.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.Manifest.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.xml
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\scopedcss\bundle\MDTasks.styles.css
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.input.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.output.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorCoreGenerate.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\CreateTask.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditTask.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cs
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.exe
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.deps.json
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.json
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.dev.json
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CopyComplete
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.genruntimeconfig.cache
+C:\Users\tai.nguyen\source\repos\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csprojAssemblyReference.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.exe
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.deps.json
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.json
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.dev.json
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csprojAssemblyReference.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfoInputs.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfo.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CoreCompileInputs.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.Manifest.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.xml
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\scopedcss\bundle\MDTasks.styles.css
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.input.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.output.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorCoreGenerate.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\CreateTask.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditTask.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CopyComplete
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.genruntimeconfig.cache
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchTask.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchingTask.cshtml.g.cs
+C:\Users\truong.nguyen\Documents\ATai\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchRPEmployee.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.exe
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.deps.json
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.json
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.dev.json
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csprojAssemblyReference.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfoInputs.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfo.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CoreCompileInputs.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.Manifest.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.xml
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\scopedcss\bundle\MDTasks.styles.css
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.input.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.output.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorCoreGenerate.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\CreateTask.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditTask.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchingTask.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchRPEmployee.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchTask.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cache
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cs
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CopyComplete
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\tai.nguyen\Downloads\Truong\MDTasks_V2_1\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.genruntimeconfig.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.StaticWebAssets.xml
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.exe
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.deps.json
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.json
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.runtimeconfig.dev.json
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\linux\native\libmongocrypt.so
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\runtimes\win\native\mongocrypt.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.AssemblyReference.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfoInputs.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.AssemblyInfo.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CoreCompileInputs.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorAssemblyInfo.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\staticwebassets\MDTasks.StaticWebAssets.Manifest.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.input.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.TagHelpers.output.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorCoreGenerate.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\CreateTask.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Detail.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\EditTask.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Report.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchingTask.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchRPEmployee.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Employee\SearchTask.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.RazorTargetAssemblyInfo.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.Views.pdb
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CopyComplete
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.pdb
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.genruntimeconfig.cache
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Department\Edit.cshtml.g.cs
