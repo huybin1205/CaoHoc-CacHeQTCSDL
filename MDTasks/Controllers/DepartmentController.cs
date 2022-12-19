@@ -54,13 +54,43 @@ namespace MDTasks.Controllers
             return View(model);
         }
 
+        public IActionResult Create()
+        {
+            var model = new DepartmentViewModel();
+            ViewBag.Employees = _employeeServices.Get();
+
+            return View(model);
+        }
+
+        public IActionResult Delete(string id)
+        {
+            try
+            {
+                var model = _departmentServices.Get(id);
+
+                if (model == null)
+                {
+                    return NotFound();
+                }
+                _departmentServices.Remove(model.Id);
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+        }
+
+
         [HttpPost]
         public IActionResult InsertOrUpdate(Department model)
         {
-            //if (string.IsNullOrWhiteSpace(model.Id))
-            //    _departmentServices.Create(model);
-            //else
-            //    _departmentServices.Update(model);
+            if (string.IsNullOrWhiteSpace(model.Id))
+                _departmentServices.Create(model);
+            else
+                _departmentServices.Update(model);
 
             return RedirectToAction(nameof(Index));
         }

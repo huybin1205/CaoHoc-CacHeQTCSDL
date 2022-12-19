@@ -1,46 +1,42 @@
-﻿using MDTasks.Models;
+﻿using AutoMapper;
+using MDTasks.Models;
 using MDTasks.Services;
 using Microsoft.AspNetCore.Mvc;
-using System;
+using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace MDTasks.Controllers
 {
     public class EmployeeController : Controller
     {
-        private readonly EmployeeService _ds;
-
-        public EmployeeController(EmployeeService ds)
+        private readonly ILogger<EmployeeController> _logger;
+        private readonly EmployeeService _employeeServices;
+        private readonly DepartmentServices _departmentServices;
+        private readonly CommonServices _commonServices;
+        private readonly IMapper _mapper;
+        public EmployeeController(ILogger<EmployeeController> logger,
+            DepartmentServices departmentServices,
+            EmployeeService employeeServices,
+            CommonServices commonServices,
+            IMapper mapper)
         {
-            _ds = ds;
+            _logger = logger;
+            _employeeServices = employeeServices;
+            _departmentServices = departmentServices;
+            _commonServices = commonServices;
+            _mapper = mapper;
         }
 
         public IActionResult Index()
         {
-            return View(_ds.Get());
-        }
+            List<EmployeeViewModel> Employees = _mapper.Map<List<Employee>, List<EmployeeViewModel>>(_employeeServices.Get());
+            Employees.Select(x => {
+                x.DepartmentName = !string.IsNullOrEmpty(x.DepartmentID) ? _departmentServices.Get(x.DepartmentID)?.DepartmentName : "";
+                return x;
+            }).ToList();
 
-        public IActionResult Create()
-        {
-            return View(new Employee
-            {
-                FullName = "",
-                Birthday= DateTime.Now.Date,
-                Department="",
-                Phone="",
-                Position=""
-            }
-            );
-        }
-
-        public IActionResult CreateSave(Employee model)
-        {
-            List<EmployeeTask> listTasks = new List<EmployeeTask>();
-            model.Tasks = listTasks;
-            _ds.Create(model);
-            return RedirectToAction(nameof(Index));
+            return View(Employees);
         }
 
         public IActionResult Edit(string id)
@@ -49,21 +45,24 @@ namespace MDTasks.Controllers
             {
                 return NotFound();
             }
-            var model = _ds.Get(id);
+            var model = _mapper.Map<Employee, EmployeeViewModel>(_employeeServices.Get(id));
             if (model == null)
             {
                 return NotFound();
             }
+            model.DepartmentName = !string.IsNullOrEmpty(model.DepartmentID) ? _departmentServices.Get(model.DepartmentID)?.DepartmentName : "";
+            model.StrBirthday = model.Birthday.ToString("yyyy-MM-dd");
+
+            ViewBag.Departments = _departmentServices.Get();
+
             return View(model);
         }
 
-        public IActionResult EditSave(Employee model)
+        public IActionResult Create()
         {
-            if (ModelState.IsValid)
-            {
-                _ds.Update(model);
-                return RedirectToAction(nameof(Index));
-            }
+            var model = new EmployeeViewModel();
+            ViewBag.Departments = _departmentServices.Get();
+
             return View(model);
         }
 
@@ -71,165 +70,33 @@ namespace MDTasks.Controllers
         {
             try
             {
-                var model = _ds.Get(id);
+                var model = _employeeServices.Get(id);
 
                 if (model == null)
                 {
                     return NotFound();
                 }
-                _ds.Remove(model.Id);
-                return View(model);
+                _employeeServices.Remove(model.Id);
+
+                return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View();
+                return RedirectToAction(nameof(Index));
             }
-            
+
         }
 
-        public IActionResult DeleteConfirm(string id)
+        [HttpPost]
+        public IActionResult InsertOrUpdate(Employee model)
         {
-            _ds.Remove(id);
+            model.EmployeeID = _commonServices.GetEmployeeID(model);
+            if (string.IsNullOrWhiteSpace(model.Id))
+                _employeeServices.Create(model);
+            else
+                _employeeServices.Update(model);
+
             return RedirectToAction(nameof(Index));
         }
-
-        public IActionResult Detail(string id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-            var model = _ds.Get(id);
-            if (model == null)
-            {
-                return NotFound();
-            }
-            return View(model);
-        }
-
-        //-------------------------------------
-        //EMPLOYEE TASKS
-        public IActionResult CreateTask(string id)
-        {
-            ViewBag.Id = id;
-            return View(new EmployeeTask
-            {
-                TaskId = Guid.NewGuid().ToString(),
-                TaskName = "",
-                StartDate = DateTime.Now.Date,
-                EndDate = DateTime.Now.Date,
-                Description = "",
-                Completed=false
-            });
-            
-        }
-        
-        public IActionResult CreateTaskSave(string id, EmployeeTask employeeTask)
-        {          
-            _ds.CreateTask(id, employeeTask);
-            return RedirectToAction("Detail", new { id = id });
-        }
-        public IActionResult EditTask(string id, string taskid)
-        {
-            var employee = _ds.Get(id);
-            var task = employee.Tasks.Where(x => x.TaskId == taskid).FirstOrDefault();
-            ViewBag.Id = id;
-            return View(task);
-        }
-        public IActionResult EditTaskSave(string id, EmployeeTask employeeTask)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-            if (ModelState.IsValid)
-            {
-                _ds.UpdateTask(id, employeeTask);
-            }
-            return RedirectToAction("Detail", new { id = id });
-        }
-        public IActionResult DeleteTask(string id, string taskid)
-        {
-            if (id == null || taskid == null)
-            {
-                return NotFound();
-            }
-            _ds.DeleteTask(id, taskid);
-            return RedirectToAction("Detail", new { id = id });
-        }
-
-        public IActionResult Report()
-        {
-            SearchingEmployee searchingEmployee = new SearchingEmployee();
-            return View(searchingEmployee);
-        }
-        public IActionResult SearchTask()
-        {
-            SearchingTask searchingTask = new SearchingTask();
-            return View(searchingTask);
-        }
-        [HttpPost]
-        public IActionResult SearchingTask(SearchingTask searchingTask)
-        {
-            //List<ResultEmployeeTask> _Tasks = new List<ResultEmployeeTask>();
-            //var results = _ds.SearchByTask(searchingTask.TaskName, searchingTask.Completed).Result;
-
-            //foreach (var p1 in results)
-            //{
-            //    foreach (var item in p1.Tasks)
-            //    {
-            //        _Tasks.Add(new ResultEmployeeTask
-            //        {
-            //            FullName = p1.FullName,
-            //            Department = p1.Department,
-            //            TaskName = item.TaskName,
-            //            StartDate = item.StartDate,
-            //            EndDate = item.EndDate,
-            //            Completed = item.Completed,
-            //            Description = item.Description
-            //        });
-            //    }
-            //}
-            //var data = from c in _Tasks
-            //           where c.TaskName.Contains(searchingTask.TaskName) || c.Completed == searchingTask.Completed
-            //           select c;
-
-            return View(_ds.SearchByTask(searchingTask.TaskName, searchingTask.Completed));
-        }
-
-        //-------------------------------------
-        //SEARCH
-        [HttpPost]
-        public IActionResult SearchRPEmployee(SearchingEmployee searchingEmployee)
-        {
-            string empName = "";
-            string depName = "";
-            if (!string.IsNullOrEmpty(searchingEmployee.EmployeeName))
-            {
-                empName = searchingEmployee.EmployeeName;
-            }
-            if (!string.IsNullOrEmpty(searchingEmployee.DepartmentName))
-            {
-                depName = searchingEmployee.DepartmentName;
-            }
-            var results =  _ds.SearchByEmpDepart(empName, depName);
-            return View(results);
-        }
-
-        //public async Task<IActionResult> SearchRPEmployee(SearchingEmployee searchingEmployee)
-        //{
-        //    string empName = "";
-        //    string depName = "";
-        //    if (!string.IsNullOrEmpty(searchingEmployee.EmployeeName))
-        //    {
-        //        empName = searchingEmployee.EmployeeName;
-        //    }
-        //    if (!string.IsNullOrEmpty(searchingEmployee.DepartmentName))
-        //    {
-        //        depName = searchingEmployee.DepartmentName;
-        //    }
-        //    var results = await _ds.SearchByEmpDepart(empName, depName);
-        //    return View(results);
-        //}
     }
 }

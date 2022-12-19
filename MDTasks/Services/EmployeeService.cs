@@ -41,8 +41,11 @@ namespace MDTasks.Services
         {
             var filter = Builders<Employee>.Filter.Eq(s => s.Id, employee.Id);
             var update = Builders<Employee>.Update
-                            .Set(s => s.FullName, employee.FullName).Set(s => s.Birthday, employee.Birthday)
-                            .Set(s => s.Department, employee.Department).Set(s => s.Phone, employee.Phone)
+                            .Set(s => s.FullName, employee.FullName)
+                            .Set(s => s.Email, employee.Email)
+                            .Set(s => s.Birthday, employee.Birthday)
+                            .Set(s => s.DepartmentID, employee.DepartmentID)
+                            .Set(s => s.Phone, employee.Phone)
                             .Set(s => s.Position, employee.Position);
             _employees.UpdateOne(filter, update);
         }
@@ -57,95 +60,95 @@ namespace MDTasks.Services
             _employees.DeleteOne(em => em.Id == id);
         }
 
-        public void CreateTask(string id, EmployeeTask employeeTask)
-        {
-            try
-            {
-                var filter = Builders<Employee>.Filter.Eq(s => s.Id, id);
-                var update = Builders<Employee>.Update.Push("Tasks", employeeTask);
-                _employees.UpdateOne(filter, update);
-            }
-            catch
-            {
+        //public void CreateTask(string id, EmployeeTask employeeTask)
+        //{
+        //    try
+        //    {
+        //        var filter = Builders<Employee>.Filter.Eq(s => s.Id, id);
+        //        var update = Builders<Employee>.Update.Push("Tasks", employeeTask);
+        //        _employees.UpdateOne(filter, update);
+        //    }
+        //    catch
+        //    {
 
-                throw;
-            }
+        //        throw;
+        //    }
 
-        }
-        public void UpdateTask(string id,  EmployeeTask task)
-        {
-            try
-            {
-                var filter = Builders<Employee>.Filter.And(
-                    Builders<Employee>.Filter.Eq(x => x.Id, id),
-                    Builders<Employee>.Filter.ElemMatch(x => x.Tasks, x => x.TaskId == task.TaskId));
+        //}
+        //public void UpdateTask(string id,  EmployeeTask task)
+        //{
+        //    try
+        //    {
+        //        var filter = Builders<Employee>.Filter.And(
+        //            Builders<Employee>.Filter.Eq(x => x.Id, id),
+        //            Builders<Employee>.Filter.ElemMatch(x => x.Tasks, x => x.TaskId == task.TaskId));
 
-                var update = Builders<Employee>.Update.Set(x => x.Tasks[-1], task);
+        //        var update = Builders<Employee>.Update.Set(x => x.Tasks[-1], task);
 
-                _employees.UpdateOne(filter, update);
-            }
-            catch 
-            {
+        //        _employees.UpdateOne(filter, update);
+        //    }
+        //    catch 
+        //    {
 
-                throw;
-            }
+        //        throw;
+        //    }
 
-        }
-        public void DeleteTask(string id, string taskid)
-        {
-            try
-            {
-                var filter = Builders<Employee>.Filter.Eq(x=> x.Id, id);
-                var update = Builders<Employee>.Update.PullFilter(x => x.Tasks, x => x.TaskId == taskid);
-                _employees.UpdateOne(filter,update);
-            }
-            catch 
-            {
+        //}
+        //public void DeleteTask(string id, string taskid)
+        //{
+        //    try
+        //    {
+        //        var filter = Builders<Employee>.Filter.Eq(x=> x.Id, id);
+        //        var update = Builders<Employee>.Update.PullFilter(x => x.Tasks, x => x.TaskId == taskid);
+        //        _employees.UpdateOne(filter,update);
+        //    }
+        //    catch 
+        //    {
 
-                throw;
-            }
+        //        throw;
+        //    }
 
-        }
-        //-------------------------------------
-        //SEARCH
+        //}
+        ////-------------------------------------
+        ////SEARCH
 
         
-        public List<Employee> SearchByEmpDepart(string EmpName, string DepName)
-        {
-                var filter = Builders<Employee>.Filter.And(
-                    Builders<Employee>.Filter.Regex("FullName", new BsonRegularExpression(EmpName, "i")),
-                    Builders<Employee>.Filter.Regex("Department", new BsonRegularExpression(DepName, "i")));
+        //public List<Employee> SearchByEmpDepart(string EmpName, string DepName)
+        //{
+        //        var filter = Builders<Employee>.Filter.And(
+        //            Builders<Employee>.Filter.Regex("FullName", new BsonRegularExpression(EmpName, "i")),
+        //            Builders<Employee>.Filter.Regex("Department", new BsonRegularExpression(DepName, "i")));
             
-                return _employees.Find(filter).ToList();
-        }
-        public List<ResultEmployeeTask> SearchByTask(string TaskName, bool completed)
-        {
+        //        return _employees.Find(filter).ToList();
+        //}
+        //public List<ResultEmployeeTask> SearchByTask(string TaskName, bool completed)
+        //{
 
-            var filter = Builders<Employee>.Filter.ElemMatch(x => x.Tasks, x => x.Completed ==completed);
-            List<Employee> emp= _employees.Find(filter).ToList();
+        //    var filter = Builders<Employee>.Filter.ElemMatch(x => x.Tasks, x => x.Completed ==completed);
+        //    List<Employee> emp= _employees.Find(filter).ToList();
 
-            List<ResultEmployeeTask> _Tasks = new List<ResultEmployeeTask>();
-            foreach (var p1 in emp)
-            {
-                foreach (var item in p1.Tasks)
-                {
-                    if (item.Completed == completed)
-                    { 
-                        _Tasks.Add(new ResultEmployeeTask
-                        {
-                            FullName = p1.FullName,
-                            Department = p1.Department,
-                            TaskName = item.TaskName,
-                            StartDate = item.StartDate,
-                            EndDate = item.EndDate,
-                            Completed = item.Completed,
-                            Description = item.Description
-                        });
-                    }
-                }
-            }
+        //    List<ResultEmployeeTask> _Tasks = new List<ResultEmployeeTask>();
+        //    foreach (var p1 in emp)
+        //    {
+        //        foreach (var item in p1.Tasks)
+        //        {
+        //            if (item.Completed == completed)
+        //            { 
+        //                _Tasks.Add(new ResultEmployeeTask
+        //                {
+        //                    FullName = p1.FullName,
+        //                    Department = p1.DepartmentID,
+        //                    TaskName = item.TaskName,
+        //                    StartDate = item.StartDate,
+        //                    EndDate = item.EndDate,
+        //                    Completed = item.Completed,
+        //                    Description = item.Description
+        //                });
+        //            }
+        //        }
+        //    }
         
-            return _Tasks;
-        }
+        //    return _Tasks;
+        //}
     }
 }

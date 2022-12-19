@@ -18,13 +18,17 @@ namespace MDTasks.Models
         [Required]
         public string FullName { get; set; } = string.Empty;
 
-        [BsonElement("Department")]
+        [BsonRepresentation(BsonType.ObjectId)]
         [Required]
-        public string Department { get; set; } = string.Empty;
+        public string DepartmentID { get; set; } = string.Empty;
 
-         [BsonElement("EmployeeID")]
+        [BsonElement("EmployeeID")]
         [Required]
         public string EmployeeID { get; set; } = string.Empty;
+
+        [BsonElement("Email")]
+        [Required]
+        public string Email { get; set; } = string.Empty;
 
         [BsonElement("Birthday")]
         [DataType(DataType.Date)]
@@ -35,9 +39,5 @@ namespace MDTasks.Models
 
         [BsonElement("Position")]
         public string Position { get; set; } = string.Empty;
-        
-        public List<EmployeeTask> Tasks { get; set; } 
-
-        
     }
 }

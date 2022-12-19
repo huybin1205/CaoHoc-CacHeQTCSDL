@@ -5,7 +5,11 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
 }
-
+<style>
+    a: hover{
+        cursor: pointer;
+    }
+</style>
 <div class="page-breadcrumb">
     <div class="row align-items-center">
         <div class="col-md-6 col-8 align-self-center">
@@ -17,15 +21,6 @@
                         <li class="breadcrumb-item active" aria-current="page">Department</li>
                     </ol>
                 </nav>
-            </div>
-        </div>
-        <div class="col-md-6 col-4 align-self-center">
-            <div class="text-end upgrade-btn">
-                <a href="https://www.wrappixel.com/templates/materialpro/"
-                   class="btn btn-danger d-none d-md-inline-block text-white" target="_blank">
-                    Upgrade to
-                    Pro
-                </a>
             </div>
         </div>
     </div>
@@ -41,7 +36,7 @@
             <div class="card">
                 <div class="card-body">
                     <h4 class="card-title">Department</h4>
-                    <a class="h6 btn btn-success text-white"><i class="mdi mdi-plus"></i>Add</a>
+                    <a class="h6 btn btn-success text-white" asp-action="Create"><i class="mdi mdi-plus"></i>Add</a>
                     <div class="table-responsive">
                         <table class="table user-table">
                             <thead>
@@ -60,7 +55,7 @@
                                         <td>@item.EmployeeName</td>
                                         <td>
                                             <a title="Edit" asp-action="Edit" asp-route-id="@item.Id"><i class="mdi mdi-tooltip-edit text-success h3"></i></a>
-                                            <a title="Remove" asp-action="Delete" asp-route-id="@item.Id"><i class="mdi mdi-delete-circle text-danger h3"></i></a>
+                                            <a title="Remove" href="#" onclick="return RemoveDepartment('@item.Id')"><i class="mdi mdi-delete-circle text-danger h3"></i></a>
                                         </td>
                                     </tr>
                                 }
@@ -72,3 +67,10 @@
         </div>
     </div>
 </div>
+<script type="text/javascript">
+    function RemoveDepartment (id) {
+        if (confirm("Are you sure you want to delete this item?") == true) {
+            window.location.href = '/Department/Delete/' + id;
+        } 
+    }
+</script>

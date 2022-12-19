@@ -28,6 +28,9 @@ namespace MDTasks
         {
             services.AddScoped<EmployeeService>();
             services.AddScoped<DepartmentServices>();
+            services.AddScoped<ProjectServices>();
+            services.AddScoped<CommonServices>();
+            services.AddScoped<DashboardServices>();
             services.AddControllersWithViews();
 
             // Auto Mapper Configurations
@@ -67,7 +70,7 @@ namespace MDTasks
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Department}/{action=Index}/{id?}");
+                    pattern: "{controller=Dashboard}/{action=Index}/{id?}");
             });
         }
     }
