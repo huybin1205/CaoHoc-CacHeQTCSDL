@@ -1,0 +1,40 @@
+{
+    "_id" : ObjectId("63a06ac21e1349ebed580d60"),
+    "FullName" : "Trần Gia Huy",
+    "DepartmentID" : ObjectId("639db399615de732aec10e92"),
+    "EmployeeID" : "TGH120598",
+    "Email" : "huyprosoccer@gmail.com",
+    "Birthday" : ISODate("1998-05-07T17:00:00.000+0000"),
+    "Phone" : "03665247372",
+    "Position" : "Nhân viên"
+}
+{
+    "_id" : ObjectId("63a079d36422a52876457f97"),
+    "FullName" : "Nguyễn Đạt Tín",
+    "DepartmentID" : ObjectId("639db399615de732aec10e93"),
+    "EmployeeID" : "NĐT261222",
+    "Email" : "huyprosoccer@gmail.com",
+    "Birthday" : ISODate("2022-12-24T17:00:00.000+0000"),
+    "Phone" : "0829160990",
+    "Position" : "Nhân viên"
+}
+{
+    "_id" : ObjectId("63a079e56422a52876457f98"),
+    "FullName" : "Dương Minh Hòa",
+    "DepartmentID" : ObjectId("639db399615de732aec10e94"),
+    "EmployeeID" : "DMH161222",
+    "Email" : null,
+    "Birthday" : ISODate("2022-12-15T17:00:00.000+0000"),
+    "Phone" : null,
+    "Position" : "Nhân viên"
+}
+{
+    "_id" : ObjectId("63a079f66422a52876457f99"),
+    "FullName" : "Nguyễn Minh Hoàng",
+    "DepartmentID" : ObjectId("639db399615de732aec10e94"),
+    "EmployeeID" : "NMH021222",
+    "Email" : "huyprosoccer@gmail.com",
+    "Birthday" : ISODate("2022-12-01T17:00:00.000+0000"),
+    "Phone" : "3103413788",
+    "Position" : "Nhân viên"
+}

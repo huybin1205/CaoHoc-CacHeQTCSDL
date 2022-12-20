@@ -11,13 +11,13 @@ namespace MDTasks.Controllers
     {
         private readonly ILogger<DashboardController> _logger;
         private readonly DepartmentServices _departmentServices;
-        private readonly EmployeeService _employeeServices;
+        private readonly EmployeeServices _employeeServices;
         private readonly ProjectServices _projectServices;
         private readonly DashboardServices _dashboardServices;
         private readonly IMapper _mapper;
         public DashboardController(ILogger<DashboardController> logger,
             DepartmentServices departmentServices,
-            EmployeeService employeeService,
+            EmployeeServices employeeService,
             ProjectServices projectServices,
             DashboardServices dashboardServices,
             IMapper mapper)

@@ -1,0 +1,24 @@
+{
+    "_id" : ObjectId("639db472615de732aec10e96"),
+    "TaskName" : "Phân khúc khách hàng",
+    "ProjectID" : ObjectId("639db3de615de732aec10e95"),
+    "Completed" : true,
+    "Employees" : [
+
+    ],
+    "Description" : null,
+    "EndDate" : ISODate("2022-12-31T17:00:00.000+0000"),
+    "StartDate" : ISODate("2022-10-31T17:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("639db472615de732aec10e97"),
+    "TaskName" : "Phân tích thị trường",
+    "ProjectID" : ObjectId("639db3de615de732aec10e95"),
+    "Completed" : false
+}
+{
+    "_id" : ObjectId("639db472615de732aec10e98"),
+    "TaskName" : "Lập kế hoạch kinh doanh",
+    "ProjectID" : ObjectId("639db3de615de732aec10e95"),
+    "Completed" : false
+}

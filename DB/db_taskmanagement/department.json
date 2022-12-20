@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("639db399615de732aec10e92"),
+    "DepartmentName" : "IT",
+    "EmployeeID" : ObjectId("63a06ac21e1349ebed580d60"),
+    "Description" : "Support IT"
+}
+{
+    "_id" : ObjectId("639db399615de732aec10e93"),
+    "DepartmentName" : "Nhân sự"
+}
+{
+    "_id" : ObjectId("639db399615de732aec10e94"),
+    "DepartmentName" : "Kế toán"
+}

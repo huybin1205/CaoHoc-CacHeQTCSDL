@@ -12,11 +12,11 @@ namespace MDTasks.Controllers
     {
         private readonly ILogger<ProjectController> _logger;
         private readonly ProjectServices _projectServices;
-        private readonly EmployeeService _employeeServices;
+        private readonly EmployeeServices _employeeServices;
         private readonly IMapper _mapper;
         public ProjectController(ILogger<ProjectController> logger,
             ProjectServices projectServices,
-            EmployeeService employeeServices,
+            EmployeeServices employeeServices,
             IMapper mapper)
         {
             _logger = logger;

@@ -14,6 +14,8 @@ namespace MDTasks.Mappings
             CreateMap<ProjectViewModel, Project>();
             CreateMap<EmployeeViewModel, Employee>();
             CreateMap<Employee, EmployeeViewModel>();
+            CreateMap<TaskViewModel, Task>();
+            CreateMap<Task, TaskViewModel>();
         }
     }
 }

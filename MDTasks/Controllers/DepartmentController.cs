@@ -12,11 +12,11 @@ namespace MDTasks.Controllers
     {
         private readonly ILogger<DepartmentController> _logger;
         private readonly DepartmentServices _departmentServices;
-        private readonly EmployeeService _employeeServices;
+        private readonly EmployeeServices _employeeServices;
         private readonly IMapper _mapper;
         public DepartmentController(ILogger<DepartmentController> logger, 
             DepartmentServices departmentServices,
-            EmployeeService employeeService,
+            EmployeeServices employeeService,
             IMapper mapper)
         {
             _logger = logger;

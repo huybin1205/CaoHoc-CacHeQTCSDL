@@ -463,3 +463,6 @@ C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\
 C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.csproj.CopyComplete
 C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\MDTasks.genruntimeconfig.cache
 C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Task\Index.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Task\Edit.cshtml.g.cs
+C:\Users\HuyBin\Documents\Zalo Received Files\MDTasks\MDTasks\MDTasks\obj\Debug\netcoreapp3.1\Razor\Views\Task\Create.cshtml.g.cs

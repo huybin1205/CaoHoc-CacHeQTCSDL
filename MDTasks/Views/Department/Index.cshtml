@@ -38,7 +38,7 @@
                     <h4 class="card-title">Department</h4>
                     <a class="h6 btn btn-success text-white" asp-action="Create"><i class="mdi mdi-plus"></i>Add</a>
                     <div class="table-responsive">
-                        <table class="table user-table">
+                        <table id="tableDepartment" class="table user-table">
                             <thead>
                                 <tr>
                                     <th class="border-top-0">#</th>
@@ -68,6 +68,9 @@
     </div>
 </div>
 <script type="text/javascript">
+     $(document).ready(function() {
+        $('#tableDepartment').DataTable();
+    });
     function RemoveDepartment (id) {
         if (confirm("Are you sure you want to delete this item?") == true) {
             window.location.href = '/Department/Delete/' + id;

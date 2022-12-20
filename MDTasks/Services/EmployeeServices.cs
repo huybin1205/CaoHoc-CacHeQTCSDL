@@ -10,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace MDTasks.Services
 {
-    public class EmployeeService
+    public class EmployeeServices
     {
         private readonly IMongoCollection<Employee> _employees;
 
-        public EmployeeService(IConfiguration config)
+        public EmployeeServices(IConfiguration config)
         {
             MongoClient client = new MongoClient(config.GetConnectionString("DbConnection"));
             IMongoDatabase database = client.GetDatabase("db_taskmanagement");
